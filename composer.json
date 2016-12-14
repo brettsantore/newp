@@ -1,0 +1,16 @@
+{
+    "name": "santore/newp",
+    "authors": [
+        {
+            "name": "Brett Santore",
+            "email": "brett.santore@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Santore\\": "src"
+        }
+    }
+}
